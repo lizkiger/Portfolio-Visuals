@@ -1,5 +1,5 @@
 Liz Kiger- Data Analysis Portfolio
 
-This porfolio showcases my skills using SQL, R and Tablaue
+This porfolio showcases my skills using SQL, R and Tableau
 
 
