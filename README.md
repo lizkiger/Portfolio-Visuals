@@ -1,3 +1,5 @@
-# Portfolio-Visuals
+Liz Kiger- Data Analysis Portfolio
 
-https://public.tableau.com/app/profile/liz.kiger
+This porfolio showcases my skills using SQL, R and Tablaue
+
+
