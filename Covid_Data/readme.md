@@ -1,1 +1,2 @@
-Project overview
+Exploring Covid-19 and the impact on different countries.
+2 datasets were used in this project.  The first dataset shows location, infection rate and death.  The second dataset shows location and vaccine use.
