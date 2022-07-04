@@ -1,12 +1,6 @@
-Key objectives:
-1.Identify the business task:
+Bellabeat is a high-tech company that manufactures health-focused smart products.They offer different smart devices that collect data on activity, sleep, stress, and reproductive health to empower women with knowledge about their own health and habits.
 
-The company better target their marketing efforts into their customer's needs based on their usage of their fitness smart devices. With this info then make high-level recommendations for how these trends can inform Bellabeat marketing strategy.
-2.Consider key stakeholders:
+The data source used for our case study is FitBit Fitness Tracker Data.
 
-The main stakeholders here are Urška Sršen, Bellabeat’s co-founder and Chief Creative Officer; Sando Mur, Mathematician and Bellabeat’s cofounder; And the rest of the Bellabeat marketing analytics team.
-3.The business task:
-
-Given these facts, the business task is defined as searching for user patterns of usage of their smart devices in order to gain insights that would later better orientate marketing decisions. So, in one phrase it would be:
-
-How do our users use our smart devices?
+We wil be working to analyze smart device usage data in order to gain insight into how consumers use non-Bellabeat smart
+devices.  By looking at consumer data we will be able to find more opportunity for Bellabeat growth.
