@@ -1,6 +1,6 @@
 My name is Liz and I am a huge fan of movies.  My friends and I love to get together, make some popcorn and relax into the weekend with a cinematic adventure.  Sounds perfect right?  The only problem is actually deciding on a movie we can all agree on.  I am about to take you on a movie data adventure to find which movie meets all of our preferences.  
 
-The database I will be using contains 562 movies from the year 2007 to 2011.  It includes the movie genre and audience and critic ratings found from [Rotton Tomatoes](https://www.rottentomatoes.com/) and the budget of each movie.  You can check out the data I used [here](https://github.com/lizkiger/Portfolio-Visuals/blob/main/Movie_data/Movie%20Ratings.csv)
+The database I will be using contains 562 movies from the year 2007 to 2011.  It includes the movie genre and audience and critic ratings found from [Rotton Tomatoes](https://www.rottentomatoes.com/) and the budget of each movie.  You can check out all the data I used [here](https://github.com/lizkiger/Portfolio-Visuals/blob/main/Movie_data/Movie%20Ratings.csv)
 
 To find out a little more, I asked each of my friends what they look for in a movie.  That includes what genre they prefer or don't prefer, if they look at audience or critic ratings, or if release year is important to them.
 
