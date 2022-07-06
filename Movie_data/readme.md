@@ -13,7 +13,7 @@ Skyler:  Skyler would like to watch an action or drama movie but only if the cri
 Liz:  I will watch any comedy or  horror movie but only if the critic rating is higher than 65.  I usually don't like to watch dramas but am willing to if it came out in 2011.  I love thriller and action movies and will watch any of them where the audience rating is higher than 60.  I will watch romance only if the bugdet is higher than 50 million.  I will watch any adventure movie that came out in 2009 or 2010.
 
 
-Based on everyone's preferences including my own, I have created a filter on SQL using CASE statements.  See the results here.
+Based on everyone's preferences including my own, I have created a filter on SQL using CASE statements.  See project [here](https://github.com/lizkiger/Portfolio-Visuals/blob/main/Movie_data/Movie_SQL_Friends_View.sql).
 
 
   
