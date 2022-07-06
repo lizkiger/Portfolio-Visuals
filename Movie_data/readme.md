@@ -9,7 +9,7 @@ Before we start, let's meet the crew!
 Dan:  Dan loves action and adventure movies and the more explosions the better.  He thinks the bigger the budget the more action potential.  He is willing to watch comedy as long as the audience rating is higher than 60. He will watch a Drama or Romance but only if the year of release was 2011 (pretty sure he's hoping for Twilight on that one).  He will watch Horror or Thriller but only if the budget is under $20 million.  He likes the cheesy ones with a low budget best.
 
 Based on Dan's preferences I have created a filter on SQL.
-
+[Movie data](https://github.com/lizkiger/Portfolio-Visuals/blob/main/Movie_data/Movie%20Ratings.csv)
 
   
 
