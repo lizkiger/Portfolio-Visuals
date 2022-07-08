@@ -6,7 +6,7 @@ To find out a little more, I asked each of my friends what they look for in a mo
 
 Before we start, let's meet the crew!
 
-Dan:  Dan loves action and adventure movies and the more explosions the better.  He thinks the bigger the budget the more action potential.  He is willing to watch comedy as long as the audience rating is higher than 60. He will watch a Drama or Romance but only if the year of release was 2011 (pretty sure he's hoping for Twilight on that one).  He will watch Horror or Thriller but only if the budget is under $20 million.  He likes the cheesy ones with a low budget best.
+Dan:  Dan loves action and adventure movies and the more explosions the better.  He thinks the bigger the budget the more action potential.  He is willing to watch comedy as long as the audience rating is higher than 60. He will watch a Drama or Romance but only if the year of release was 2011.  He will watch Horror or Thriller but only if the budget is under $20 million.  He likes the cheesy ones with a low budget best.
 
 Skyler:  Skyler would like to watch an action or drama movie but only if the critics rating is higher than 70.  He will watch any comedy or romance movie that came out in 2007.  He usually doesn't like horror or thriller movies but he is willing to if the audience rating is higher than 80.  He will watch any adventure movie.
 
