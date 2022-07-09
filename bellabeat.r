@@ -180,3 +180,4 @@ daily_use <- daily_activity_sleep %>%
   ))
 head(daily_use)
 
+##we are now able to see usage based on how many days used
