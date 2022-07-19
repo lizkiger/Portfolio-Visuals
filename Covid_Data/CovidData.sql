@@ -126,3 +126,16 @@ JOIN Lizdata..CovidVaccinations vac
 --Checking View to make sure all info is there
 	SELECT*
 	FROM PercentPopulationVaccinated
+	
+	
+--Looking at total vaccinations based on continent	
+
+  SELECT continent, sum(cast(new_vaccinations as int)) as total_vaccinations
+  FROM [Lizdata].[dbo].[PercentPopulationVaccinated]
+  group by continent
+  
+  --total vaccinations based on location and population
+  
+  SELECT location, population, SUM(cast(new_vaccinations as int)) as total_vaccinations
+  FROM [Lizdata].[dbo].[PercentPopulationVaccinated]
+  group by location, population
