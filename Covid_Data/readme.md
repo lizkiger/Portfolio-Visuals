@@ -5,4 +5,4 @@
 
 ## See Tableau link [here](https://public.tableau.com/app/profile/liz.kiger/viz/Covid-19dataviz_16582765892200/Dashboard1)
 
-![image](https://public.tableau.com/app/profile/liz.kiger/viz/Covid-19dataviz_16582765892200/Dashboard1)
+
