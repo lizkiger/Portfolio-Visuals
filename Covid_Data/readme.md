@@ -6,3 +6,4 @@
 ## See Tableau link [here](https://public.tableau.com/app/profile/liz.kiger/viz/Covid-19dataviz_16582765892200/Dashboard1)
 
 
+![tableau covid viz](https://user-images.githubusercontent.com/107583919/180318575-3e833f33-5d94-4f56-a232-c2f86f59773f.png)
